@@ -1,0 +1,36 @@
+_repo: The-Phantom-Lover_30286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ayres, Ruby M. (Ruby Mildred)
+    aliases:
+    - Pocock, Ruby Mildred
+    - Ayres, Ruby Mildred
+    birthdate: 1883
+    deathdate: 1955
+    gutenberg_agent_id: '7383'
+    url: http://www.gutenberg.org/2009/agents/7383
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII;
+  Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV;
+  Chapter XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Chapter XXIX; Chapter
+  XXX; Chapter XXXI; Chapter XXXII; Chapter XXXIII; Chapter XXXIV; Chapter XXXV; Chapter
+  XXXVI; Chapter XXXVII
+gutenberg_issued: '2009-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30286'
+  lccn: '22004238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Phantom Lover
+url: http://www.gutenberg.org/ebooks/30286
